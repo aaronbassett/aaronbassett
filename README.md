@@ -23,6 +23,9 @@ _Vonage Campus, San Francisco, CA, USA - Tue Oct 29 2019_
 _PyGotham, New York, NY, USA - Fri Oct 04 2019_
 - :speech_balloon: [Hello to the World in 8 Web Frameworks (Micro, Batteries Included & Async)](https://noti.st/aaronbassett/Bji2Ti/hello-to-the-world-in-8-web-frameworks-micro-batteries-included-async)<br />
 _PyConWeb, Munich, Germany - Sat May 25 2019_
+- :speech_balloon: [Reduce, Reuse, Recycle - Persisting WebSocket connections with SharedWorkers](https://noti.st/aaronbassett/xzOUkb/reduce-reuse-recycle-persisting-websocket-connections-with-sharedworkers)<br />
+_DjangoCon Europe 2019, Copenhagen, Denmark - Wed Apr 10 2019_
+- [— See more](https://noti.st/aaronbassett)
 
 If you would like me to speak at your event you can reach me via [Twitter](https://twitter.com/aaronbassett) _(my DMs are open)_ or by emailing aaron.bassett@mongodb.com
 

@@ -17,7 +17,7 @@
 
 ### [Polkadot Blockchain Academy](https://polkadot.network/development/blockchain-academy/)
 
-I am a [PBA alumni](https://kodadot.xyz/ahk/gallery/u-20-1) and was one of the Smart Contract instructors for [cohort 3 at UC Berkeley](https://www.youtube.com/watch?v=VTENSTYZmyo).
+I am a [PBA alumni](https://kodadot.xyz/ahk/gallery/u-20-1) and was one of the Smart Contract instructors ([:octopus: ink!](https://use.ink)) for [cohort 3 at UC Berkeley](https://www.youtube.com/watch?v=VTENSTYZmyo).
 
 ---
 

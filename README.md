@@ -4,11 +4,11 @@
 
 ## Where to find me
 
-- :bird: https://twitter.com/aaronbassett
+- :sparkles: https://www.polywork.com/aaron
 - :octocat: https://github.com/aaronbassett
+- :bird: https://twitter.com/aaronbassett
 - :briefcase: https://www.linkedin.com/in/aaronbassett/
 - :mega: https://noti.st/aaronbassett
-- :sparkles: https://www.polywork.com/aaron
 - :earth_americas: Miami, FL, USA
 
 ---

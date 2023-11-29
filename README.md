@@ -1,31 +1,36 @@
+# Aaron Bassett
 
-Aaron Bassett
-=============
+👋 Hi there! I'm a Principal Software Engineer with over two decades of experience in the tech world. For the last ten years, I've focused on developer relations, where I've thrived in crafting compelling product use cases and educational content that resonate with diverse audiences. My passion for sharing knowledge has led me to become a regular keynote speaker, an educator, a workshop presenter, and a mentor who enjoys guiding the next generation of developers.
 
-<p>Aaron Bassett has lived in Ireland, Scotland, Hungary, and the Netherlands. He is a recovering Senior Software Engineer turned award-winning Developer Advocate.  As a developer, public speaker, writer, and mentor; he spends most of his time making cool stuff and helping other people make <strong>unbelievably</strong> cool stuff 🔥🦄✨🚀</p>
-<p>Aaron has been working online since 2005 and has always enjoyed sharing what he learned by organising and speaking at local meetups. He spoke at his first conference in 2013, and since then he’s spoken at conferences on a range of topics all over the world. He has a passion for mentoring and has been involved with <a href="https://en.wikipedia.org/wiki/Social_Innovation_Camp" target="_blank" rel="noopener">Social Innovation Camp UK</a>, <a href="http://unicefstories.org/tag/social-innovation-camp-kosovo/" target="_blank" rel="noopener">Social Innovation Camp Kosovo</a>, <a href="https://startupweekend.org/" target="_blank" rel="noopener">Startup Weekend</a>, <a href="http://futurecity.glasgow.gov.uk/hacking-the-future/" target="_blank" rel="noopener">Open Glasgow</a>, <a href="https://djangogirls.org/" target="_blank" rel="noopener">DjangoGirls</a> and <a href="https://www.globaldiversitycfpday.com/events/101" target="_blank" rel="noopener">global diversity CFP day</a>.</p>
-
-
-Where to find me
-----------------
+## Where to find me
 
 - :bird: https://twitter.com/aaronbassett
 - :octocat: https://github.com/aaronbassett
+- :briefcase: https://www.linkedin.com/in/aaronbassett/
 - :mega: https://noti.st/aaronbassett
+- :sparkles: https://www.polywork.com/aaron
 - :earth_americas: Miami, FL, USA
 
-Recent Talks
-------------
+---
 
-- :speech_balloon: [Real-Time Transcription and Sentiment Analysis of Audio Streams](https://noti.st/aaronbassett/RfEls2/real-time-transcription-and-sentiment-analysis-of-audio-streams)<br />
-_Vonage Campus, San Francisco, CA, USA - Tue Oct 29 2019_
-- :speech_balloon: [Can you keep a secret?](https://noti.st/aaronbassett/X8TLo6/can-you-keep-a-secret)<br />
-_PyGotham, New York, NY, USA - Fri Oct 04 2019_
-- :speech_balloon: [Hello to the World in 8 Web Frameworks (Micro, Batteries Included & Async)](https://noti.st/aaronbassett/Bji2Ti/hello-to-the-world-in-8-web-frameworks-micro-batteries-included-async)<br />
-_PyConWeb, Munich, Germany - Sat May 25 2019_
-- :speech_balloon: [Reduce, Reuse, Recycle - Persisting WebSocket connections with SharedWorkers](https://noti.st/aaronbassett/xzOUkb/reduce-reuse-recycle-persisting-websocket-connections-with-sharedworkers)<br />
-_DjangoCon Europe 2019, Copenhagen, Denmark - Wed Apr 10 2019_
-- [— See more](https://noti.st/aaronbassett)
+<img align="left" width="100" height="100" src="./images/PBA-Cert.png">
 
-If you would like me to speak at your event you can reach me via [Twitter](https://twitter.com/aaronbassett) _(my DMs are open)_ or by emailing aaron.bassett@mongodb.com
+### [Polkadot Blockchain Academy](https://polkadot.network/development/blockchain-academy/)
 
+I am a [PBA alumni](https://kodadot.xyz/ahk/gallery/u-20-1) and was one of the Smart Contract instructors for [cohort 3 at UC Berkeley](https://www.youtube.com/watch?v=VTENSTYZmyo).
+
+---
+
+<img align="left" width="100" height="100" src="./images/django-logo-square.png">
+
+### [Django Software Foundation](https://www.djangoproject.com/foundation/)
+
+I've contributed to Django, spoke at several different DjangoCons, and served on the board of the DSF for a number of years, including a stint as vice-president.
+
+---
+
+<img align="left" width="100" height="100" src="./images/python-logo.png">
+
+### [Python Software Foundation](https://www.python.org/psf-landing/)
+
+I've spoken frequently at a range of Python conferences and have been a contributing member of the PSF since ~2017.

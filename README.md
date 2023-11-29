@@ -18,12 +18,17 @@
 ### [Polkadot Blockchain Academy](https://polkadot.network/development/blockchain-academy/)
 
 I am a [PBA alumni](https://kodadot.xyz/ahk/gallery/u-20-1) and was one of the Smart Contract instructors ([:octopus: ink!](https://use.ink)) for [cohort 3 at UC Berkeley](https://www.youtube.com/watch?v=VTENSTYZmyo).
+<br />
+
+---
 
 <img align="left" width="100" height="100" src="./images/django-logo-square.png">
 
 ### [Django Software Foundation](https://www.djangoproject.com/foundation/)
 
 I've contributed to Django, spoke at several different DjangoCons, and served on the board of the DSF for a number of years, including a stint as vice-president.
+
+---
 
 <img align="left" width="100" height="100" src="./images/python-logo.png">
 

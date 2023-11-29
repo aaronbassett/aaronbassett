@@ -18,7 +18,6 @@
 ### [Polkadot Blockchain Academy](https://polkadot.network/development/blockchain-academy/)
 
 I am a [Polkadot Blockchain Academy Alumni](https://kodadot.xyz/ahk/gallery/u-20-1) (cohort 2 in Buenos Aires, 2023) and was one of the Smart Contract instructors ([:octopus: ink!](https://use.ink)) for [cohort 3 at UC Berkeley](https://www.youtube.com/watch?v=VTENSTYZmyo).
-<br />
 
 ---
 

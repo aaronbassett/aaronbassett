@@ -1,36 +1,18 @@
 # Aaron Bassett
 
-👋 Hi there! I'm a Principal Software Engineer with over two decades of experience in the tech world. For the last ten years, I've focused on developer relations, where I've thrived in crafting compelling product use cases and educational content that resonate with diverse audiences. My passion for sharing knowledge has led me to become a regular keynote speaker, an educator, a workshop presenter, and a mentor who enjoys guiding the next generation of developers.
+I am a Principal Software Engineer with over two decades of experience in Web2 and Web3. Over the last ten years, I've dedicated myself to developer relations, where I have excelled in creating interesting product use cases and highly technical resources. Adept in various languages[^1], frameworks, and SDKs, I can conceive, develop, and execute compelling educational content that resonates with developers across diverse ecosystems.
+
+My work is marked by a rare combination of technical depth, creativity, and empathetic communication. I craft engaging, developer-focused materials—from interactive workshops to technical guides—that makes complex topics accessible and actionable. My approach combines hands-on experience with a deep understanding of current and emerging technologies, allowing me to bridge the gap between complex technical concepts and practical applications.
+
+My passion for knowledge sharing has led me to become a prominent figure in the developer community. I'm a regular keynote speaker and workshop presenter, frequently appearing at Web2 and Web3 conferences. As an alumnus of the [Polkadot Blockchain Academy](https://polkadot.academy/pba-campus/) and a Smart Contract instructor [at UC Berkeley](https://www.youtube.com/watch?v=VTENSTYZmyo), I've been at the forefront of decentralized technology education.
+
+Whether crafting code, delivering a keynote, mentoring at a workshop, or leading a hackathon, my goal remains consistent: to inspire, educate, and empower developers.
+
+[^1]: ![My most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=aaronbassett&theme=dracula&hide_border=true&count_private=true&layout=compact&card_width=600)
 
 ## Where to find me
 
-- :sparkles: https://www.polywork.com/aaron
 - :octocat: https://github.com/aaronbassett
-- :bird: https://twitter.com/aaronbassett
+- :butterfly: https://bsky.app/profile/aaronbassett.com
 - :briefcase: https://www.linkedin.com/in/aaronbassett/
-- :mega: https://noti.st/aaronbassett
-- :earth_americas: Miami, FL, USA
-
----
-
-<img align="left" width="100" height="100" src="./images/PBA-Cert.png">
-
-### [Polkadot Blockchain Academy](https://polkadot.network/development/blockchain-academy/)
-
-I am a [Polkadot Blockchain Academy Alumni](https://kodadot.xyz/ahk/gallery/u-20-1) (cohort 2 in Buenos Aires, 2023) and was one of the Smart Contract instructors ([:octopus: ink!](https://use.ink)) for [cohort 3 at UC Berkeley](https://www.youtube.com/watch?v=VTENSTYZmyo).
-
----
-
-<img align="left" width="100" height="100" src="./images/django-logo-square.png">
-
-### [Django Software Foundation](https://www.djangoproject.com/foundation/)
-
-I've contributed to Django, spoke at several different DjangoCons, and served on the board of the DSF for a number of years, including a stint as vice-president.
-
----
-
-<img align="left" width="100" height="100" src="./images/python-logo.png">
-
-### [Python Software Foundation](https://www.python.org/psf-landing/)
-
-I've spoken frequently at a range of Python conferences and have been a contributing member of the PSF since ~2017.
+- :microphone: https://noti.st/aaronbassett
